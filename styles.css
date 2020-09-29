@@ -1,7 +1,7 @@
 .tire {
   width: 100px;
   height: 100px;
-  background-color: black;
+  background-color: #000;
   border-radius: 50%;
   box-shadow: 10px 10px 10px 10px hsl(0, 100%, 100%);
 }
