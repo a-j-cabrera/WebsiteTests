@@ -8,4 +8,12 @@
 #front {
   position: relative;
   float: right;
+  padding-top: 150px;
+  padding-right: 250px;
+}
+#back {
+  position: relative;
+  float: left;
+  padding-top: 150px;
+  padding-left: 250px;
 }
